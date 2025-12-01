@@ -1,0 +1,21 @@
+# Site settings
+title: Ikigai Insights
+description: Writing on lunar governance, coordination systems, and the infrastructure of expanded human presence
+author: Ikigai
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# URL settings (update this after you create your GitHub repo)
+# url: "https://yourusername.github.io"
+# baseurl: ""
+
+# Collections for organizing posts
+permalink: /:year/:month/:title/
+
+# Exclude files from the site
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
